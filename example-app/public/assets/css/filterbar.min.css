@@ -1,0 +1,24 @@
+.mall-slider-handles{
+    margin-top: 50px;
+    }
+    .filter-container-1{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    }
+    .filter-container-1 input{
+    border: 1px solid #ddd;
+    width: 100%;
+    text-align: center;
+    height: 30px;
+    border-radius: 5px;
+    }
+    .filter-container-1 button{
+    background: #51a179;
+    color:#fff;
+    padding: 5px 20px;
+    }
+    .filter-container-1 button:hover{
+    background: #2e7552;
+    color:#fff;
+    }
